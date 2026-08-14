@@ -1,6 +1,6 @@
 # Blue Team Milestones
 
-**17 of 47 badges earned**
+**18 of 47 badges earned**
 
 Dedicated to defensive security and SOC operations.
 
@@ -42,7 +42,7 @@ Dedicated to defensive security and SOC operations.
 - Web application defense
 - Incident response
 
-**Current Focus:** Earning remaining 30 Blue Team badges through SOC Level 1 and 2 paths.
+**Current Focus:** Earning remaining 29 Blue Team badges through SOC Level 1 and 2 paths.
 
 ## Roadmap: Badges In Progress
 
@@ -91,5 +91,5 @@ Working toward these advanced Blue Team badges:
 - Boogeyman Slayer - SOC L1 Capstone (Epic: 0.7%)
 - Just Have to Deal With It - Crisis Management (Epic: 0.8%)
 
-**Current Progress:** 17/47 (36%)  
+**Current Progress:** 18/47 (38%)  
 **Target:** Complete SAL1 and earn 30+ additional Blue Team badges by Q1 2025
