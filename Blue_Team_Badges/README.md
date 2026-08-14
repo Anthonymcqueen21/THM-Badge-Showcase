@@ -15,6 +15,7 @@ Dedicated to defensive security and SOC operations.
 | Web Defender | Web app attack detection | Epic: 0.6% |
 | Network Hog | Network traffic analysis | Epic: 0.6% |
 | Packet Master | TShark exercises | Epic: 0.7% |
+| Lookup Champion | Threat intelligence lookups | Epic: 0.5% |
 
 ## Rare Achievements
 
@@ -91,5 +92,5 @@ Working toward these advanced Blue Team badges:
 - Boogeyman Slayer - SOC L1 Capstone (Epic: 0.7%)
 - Just Have to Deal With It - Crisis Management (Epic: 0.8%)
 
-**Current Progress:** 18/47 (38%)  
+**Current Progress:** 19/47 (40%)  
 **Target:** Complete SAL1 and earn 30+ additional Blue Team badges by Q1 2025
