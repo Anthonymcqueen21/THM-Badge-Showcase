@@ -1,6 +1,6 @@
 # Blue Team Milestones
 
-**19 of 47 badges earned**
+**20 of 47 badges earned**
 
 Dedicated to defensive security and SOC operations.
 
